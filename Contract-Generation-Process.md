@@ -1,6 +1,5 @@
-
-
 # Harvest Project Creation Process
+
 ## Goals
 
     Process to generate clients contracts when a new project starts, 
